@@ -63,6 +63,10 @@ body {
   background-color: hsl(235, 46%, 20%);
   border-radius: 12px;
   padding: 24px;
+  
+}
+.text:hover{
+  cursor: pointer;
 }
 .top-color {
   background-color: hsl(15, 100%, 70%);
@@ -129,5 +133,6 @@ body {
 
 .text:hover {
   background-color: hsl(237, 43%, 32%);
+  
 }
 
